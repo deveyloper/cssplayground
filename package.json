@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/deveyloper/cssplayground/issues"
   },
-  "homepage": "https://github.com/deveyloper/cssplayground#readme"
+  "homepage": "https://github.com/deveyloper/cssplayground#readme",
+  "dependencies": {
+    "bootstrap": "4.4.0",
+    "font-awesome": "4.7.0"
+  }
 }
